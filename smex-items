@@ -1,0 +1,31 @@
+
+;; ----- smex-history -----
+(
+ rtags-find-symbol-at-point
+ backward-sexp
+ set-variable
+ counsel-gtags-create-tags
+ find-file-in-project
+ find-file
+ dired
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 8)
+ (package-delete . 1)
+ (term . 3)
+ (ansi-term . 2)
+ (multi-term . 7)
+ (describe-key . 1)
+ (counsel-gtags-create-tags . 3)
+ (hong/counsel-gtags-find-definition-nowait . 18)
+ (replace-string . 1)
+ (describe-coding-system . 1)
+ (dired . 1)
+ (find-file . 1)
+ (find-file-in-project . 1)
+ (set-variable . 3)
+ (rtags-find-symbol-at-point . 5)
+ (backward-sexp . 1)
+)
